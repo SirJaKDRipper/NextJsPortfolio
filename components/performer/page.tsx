@@ -36,7 +36,7 @@ export const Performer = () => {
 
       <div className="md:ml-20 md:mr-20  mt-20 flex flex-col gap-20 items-center text-center md:text-left md:items-start">
   <div>
-    <h1 className='text-4xl lgtext-4xl xl:text-6xl mt-10 md:mt-20 lg:mt-40'>Stage Craft 2024</h1>
+    <h1 className='text-4xl  xl:text-6xl mt-10 md:mt-20 lg:mt-40'>Stage Craft 2024</h1>
     <p className='text-xl md:text-2xl lg:text-3xl mt-20'>Stage Craft is one of the Informatics Institute Of Technology&apos;s Student Union&apos;s annual signature events that fuse together drama, music and dancing, producing one of the most artistic nights of the year. </p>
   </div>
   <div className='flex flex-col md:flex-row gap-2 lg:gap-3 xl:gap-20 justify-center md:justify-start'>
@@ -48,7 +48,7 @@ export const Performer = () => {
 
       <div className="md:ml-20 md:mr-20 mt-20 flex flex-col gap-20 items-center text-center md:text-left md:items-start md:justify-center">
         <div>
-          <h1 className='ext-4xl lgtext-4xl xl:text-6xl mt-10 md:mt-20 lg:mt-40'>Spandana 2023</h1>
+          <h1 className='text-4xl  xl:text-6xl mt-10 md:mt-20 lg:mt-40'>Spandana 2023</h1>
           <p className='text-xl md:text-2xl lg:text-3xl mt-20'>Spandana 2.0 is a Musical event which conducted by Leo Club Of IIT for the second time fetauring their very own band known as Vortex</p>
         </div>
         <div className='flex flex-col md:flex-row gap-2 lg:gap-3 xl:gap-20'>

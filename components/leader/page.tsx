@@ -27,24 +27,24 @@ export const Performer = () => {
 
       <div className="flex flex-col md:flex-row md:gap-20 mt-10 md:mt-20 mx-10 md:mx-40">
          <div className="md:w-1/2 md:text-left mt-5 md:mt-40">
-          <h1 className='text-4xl text-left mt-5'>Volunteering at Kuweni The Final Act</h1>
+          <h1 className='text-2xl md:text-3xl lg:ext-4xl text-left mt-5'>Volunteering at Kuweni The Final Act</h1>
         </div>
-        <Image src={leader2} alt="wallpaper" width={300} height={300} className="md:w-1/2"/>
+        <Image src={leader2} alt="wallpaper" width={300} height={300} className="md:w-1/2 mt-10 md:mt-0"/>
        
       </div>
 
       <div className="flex flex-col md:flex-row md:gap-20 mt-10 md:mt-20 mx-10 md:mx-40">
         <div className="md:w-1/2 md:text-left mt-5 md:mt-40">
-          <h1 className='md:text-3xl text-4xl text-left mt-5'>Event Co-Ordinator of LEO Club Of IIT</h1>
+          <h1 className='md:text-3xl lg:ext-4xl text-2xl text-left mt-5 lg:-mt-20'>Event Co-Ordinator of LEO Club Of IIT</h1>
         </div>
-        <Image src={leader1} alt="wallpaper" width={300} height={300} className="md:w-1/2"/>
+        <Image src={leader1} alt="wallpaper" width={300} height={300} className="md:w-1/2 mt-10 md:mt-0"/>
       </div>
 
       <div className="flex flex-col md:flex-row md:gap-20 mt-10 md:mt-20 mx-10 md:mx-40">
       <div className="md:w-1/2 md:text-left mt-5 md:mt-40">
-          <h1 className='text-4xl  text-left mt-5'>Senior & Junior perefect</h1>
+          <h1 className='md:text-3xl lg:ext-4xl text-2xl text-left mt-5'>Senior & Junior perefect</h1>
         </div>
-        <Image src={leader4} alt="wallpaper" width={300} height={300} className="md:w-1/2"/>
+        <Image src={leader4} alt="wallpaper" width={300} height={300} className="md:w-1/2 mt-10 md:mt-0"/>
     
       </div>
       

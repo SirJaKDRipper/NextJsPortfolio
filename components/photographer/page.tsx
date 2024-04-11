@@ -35,9 +35,9 @@ export const Photographer = () => {
     
       </div>
 
-      <div className="md:ml-20 md:mr-20  mt-20 flex flex-col gap-20 items-center text-center md:text-left md:items-start">
+      <div className="md:ml-20 md:mr-20  mt-20 flex flex-col gap-10 items-center text-center md:text-left md:items-start">
         <div>
-          <h1 className='text-4xl lg:text-4xl xl:text-5xl mt-10 md:mt-20 lg:mt-40'>I N T O &nbsp;&nbsp; T H E &nbsp;&nbsp;   W I L D E R N E S S</h1>
+          <h1 className='text-xl lg:text-4xl xl:text-5xl mt-10 md:mt-20 lg:mt-40'>I N T O &nbsp;&nbsp; T H E &nbsp;&nbsp;   W I L D E R N E S S</h1>
         </div>
         <div className='flex flex-col md:flex-row gap-2 lg:gap-3 xl:gap-20'>
           <Image src={img5} alt="wallpaper" width={300} height={300} className="md:w-1/3"/>

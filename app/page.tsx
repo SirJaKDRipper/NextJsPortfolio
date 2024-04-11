@@ -20,7 +20,7 @@ export default function Home() {
         <Link  className="text-sm lg:text-lg" href="/performer">2. &nbsp;&nbsp;&nbsp;P e r f o r m e r</Link>
         <Link className="text-sm lg:text-lg" href="/photographer">3.&nbsp;&nbsp;&nbsp; W i l d l i f e &nbsp;&nbsp;&nbsp; P h o t o g r a p h e r</Link>
         <Link className="text-sm lg:text-lg" href="/leader">4.&nbsp;&nbsp;&nbsp; C o m m u n i t y &nbsp;&nbsp;&nbsp; L e a d e r</Link>
-        <Link className="text-sm lg:text-lg`  " href="/vortex">5.&nbsp;&nbsp;&nbsp; V O R T E X &nbsp;&nbsp;&nbsp; /&nbsp;&nbsp;&nbsp;  H 3 6</Link>
+       
     
       </div>
      
